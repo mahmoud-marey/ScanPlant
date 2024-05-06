@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScanPlanet.API", "ScanPlanet.API\ScanPlanet.API.csproj", "{A09322E5-C37B-44C1-8E32-83D20B99FE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScanPlant.API", "ScanPlanet.API\ScanPlant.API.csproj", "{A09322E5-C37B-44C1-8E32-83D20B99FE61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
